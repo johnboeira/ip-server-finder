@@ -1,0 +1,42 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the 'go build' and 'go run' commands
+*.out
+
+# IDE and editor specific files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Vendor directory if not using Go modules
+/vendor/
+
+# Coverage files
+*.cover
+*.cov
+
+# Logs and debug files
+*.log
+*.trace
+
+# Dependency directories (specific to your project's setup)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
